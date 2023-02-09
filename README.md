@@ -1,4 +1,5 @@
-# Titulo
-## Subtitulo
+# Mi archivo modificado
+## LA GUI para gestionar Git
 
-Hola qué tal **estás**
+- Clonar
+- Crear una versión
