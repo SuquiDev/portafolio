@@ -4,3 +4,5 @@
 - Clonar
 - Crear una versión
 - Otro conflicto aalaaa
+- Conflictoo
+
