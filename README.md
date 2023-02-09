@@ -3,3 +3,4 @@
 
 - Clonar
 - Crear una versión
+- Conflictoo
